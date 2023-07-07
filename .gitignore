@@ -1,0 +1,7 @@
+# OS diffrence
+.DS_Store
+Thumbs.db
+
+# npm
+node_modules/
+package-lock.json
