@@ -27,11 +27,15 @@ const cssDist = 'path/to/css';
 ```
 // ウォッチ（ファイルを監視）
 npx gulp watch
+or
+npm run watch
 ```
 
 ```
 // ビルド（単発）
 npx gulp
+or
+npm run build
 ```
 
 ## 機能一覧
