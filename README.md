@@ -1,4 +1,6 @@
-# GulpでSassをコンパイルするためのファイル一式
+# gulp-sass-compiler
+
+GulpでSassをコンパイルするためのファイル一式
 
 ## 環境構築
 
